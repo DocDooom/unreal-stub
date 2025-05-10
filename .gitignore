@@ -2,3 +2,7 @@ venv/
 .idea/
 
 .env
+
+build/
+dist/
+*.egg-info/
