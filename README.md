@@ -1,6 +1,8 @@
-<img src="./images/test_logo.png" alt="Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/DocDooom/unreal-stub/refs/heads/main/images/test_logo.png" alt="Logo" width="200"/>
 
 # Unreal Stub
+
+Project found at: [https://pypi.org/project/unreal-stub/](https://pypi.org/project/unreal-stub/)
 
 Unreal Stub is a Python package that provides a stub file for Unreal Engine's Python API. 
 With this package you can use the Unreal Engine Python API in your Python scripts, without having to go through all
