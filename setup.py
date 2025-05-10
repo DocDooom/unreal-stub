@@ -7,7 +7,7 @@ long_description = (this_dir / "README.md").read_text(encoding="utf-8")
 
 setup(
     name='unreal_stub',
-    version='0.2.0',
+    version='0.2.1',
     description='Python stub for Unreal Engine 5 API - latest: 5.5.4',
     long_description=long_description,
     long_description_content_type='text/markdown',
