@@ -13,6 +13,6 @@ I recommend using UV as your package manager likewise you can use `uv add unreal
 
 [Find out more about uv here](https://docs.astral.sh/uv/)
 
-Current Unreal Python Version (As of 08/05/2025 (European date format)):
+Current Unreal Python Version (As of 22/06/2025 (European date format)):
 Python Version: 3.11.8 (tags/v3.11.8:db85d51, Feb  6 2024, 22:03:32)
-Unreal Engine Version: 5.5.4
+Unreal Engine Version: 5.6.0-43139311+++UE5+Release-5.6
